@@ -3,7 +3,7 @@
  - This is the notes that i have for my own usage, yet, if someone wanted to use it, feel free to do it.
 
 # Directory structure
-*or atleast how it should be, unless it's outdated, or unfilled (which is most likely)*
+`*or atleast how it should be, unless it's outdated, or unfilled (which is most likely)*`
 
 > Game
 
@@ -43,3 +43,8 @@
 
 - Eth
 
+
+
+## Kliff
+
+- Progs
