@@ -36,7 +36,6 @@
 > That one is burst safe for a big part at the start
 
 # Midweights
-> Throw > 6K > Tatami > 6HS > Kuchinashi > 5K > jK > jD > AD jS > jD > 5HS > Kuchinashi
 
 > Throw > 6K > Tatami > 6HS > Kuchinashi > 2D > jS > jD > AD jS > jD > 5HS > Kuchinashi
 > 
