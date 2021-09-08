@@ -67,3 +67,14 @@ there should be a bit of a delay there
 [1:25 AM]
 and then time the final 2C
 ```
+
+
+
+
+###### Regarding: 2a > 2b > 2b > 2c > 5c > 5[b] > 4b > 236b 
+```
+You should do those as an ending combo segment
+Corner only
+5cc j[C] 2c 5c 5[B] 2b 2c
+Or you do feint enders and do 5[B] 2B 4B 236A 236BC 2A 2C
+```

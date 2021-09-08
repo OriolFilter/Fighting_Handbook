@@ -7,12 +7,22 @@
 
 ###Ethan Combo
 > 
-> 2ab  4b 5c~c(1) 236b j.[c] 66 j.cb 2c 5c~c(1) 236a 2a 5c~c(4) 236[b]~b 2c oki 
+> 2A 2B 4B 5C~C(1) 236b j.[C] 66 j.cb 2c 5C~C(1) 236a 2A 5C~C(4) 236[B]~B 2c oki 
 > 
-> 2ab  4b 5c~c(1) 236b j.[c] 66 j.cb 2c 5c
+> 2Ab  4B 5C~C(1) 236b j.[C] 66 j.cb 2c 5C
  
+#### Cursed shit that im not able to do
+
+###### close to the corner, cactus hit OTG, afterwards cactus out of screen.
+
+236[A] > cactus 5[B] > 4B > 236B ~ A 4B > 236B ~ A 5B > 5C > 5[B] > 4B > 236B ~ A 5A > 5C > 5B > 2B > 4B > 236B > j.[C] 
+
+
+###feint loops
+
+2A 2B 2c ~ 5C~C(1-3) 236a > 236b~C 2A ~ 2c
 
 ### Optimization
 ## 236a optimization
-> 
-> 236a > 236[b]~c
+
+> 236a > 236[B]~C
