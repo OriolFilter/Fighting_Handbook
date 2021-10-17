@@ -35,6 +35,8 @@
 > 
 > That one is burst safe for a big part at the start
 
+> https://www.youtube.com/watch?v=eJQJibiY2PI
+
 # Midweights
 
 > Throw > 6K > Tatami > 6HS > Kuchinashi > 2D > jS > jD > AD jS > jD > 5HS > Kuchinashi

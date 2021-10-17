@@ -1,4 +1,14 @@
+
+
+
 #### Meterless wallsplat
+
+### 2K routes
+
+### cS routes
+
+cS > 66 > 5K (2)> 6S > GF > 5K(2) > 6S > GF (wallsplat) > Fafnir   199 
+
 
 ### Fafnir
 fafnir > 66 > fS > 5H > Gunflame > 6P > Gunflame > fafnir (wallbreak) 204     236 Tyrant Rave
@@ -20,7 +30,6 @@ VV (CH) > 5K > 6S > Revolver   145 vs chipp
 
 VV (CH) > 5K > 6S > Gunflame   144 vs chipp
 
-
 VV (CH) > 5K > 6P > Gunflame   130 vs chipp
 
 
@@ -29,3 +38,8 @@ VV (CH) > 5K > 6P > Gunflame   130 vs chipp
 
 fafnir (ch) > 66  > 2H > Gunflame > 5H > Bandit Bringer > fafnir (wallbreak) 259, Tyrant 287
 fafnir > 66  > 5S > 5H > Bandit Bringer > RRC > fafnir > fafnir (wallbreak) 258, Tyrant 287
+
+
+## Extremely close to corner
+
+cS > 66 > 5K (2) > 6S > GF > 5K(1) > 6S > GF (wallsplat) > Fafnir   205  vs gio
