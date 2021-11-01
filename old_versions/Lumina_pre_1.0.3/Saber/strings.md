@@ -34,13 +34,8 @@ j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, IAD j.[C] > 5A > 5B > 623A > throw 39
 
 j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, IAD j.[C] > 5A > 5B > 623A > j.B throw 3982
 
-j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, j.[C] ~ j.B |> 5B > RB1 > 236A > x > x 4007
-
 2C > 5[C] > 214A, 3B+C > j.[C] ~ j.B |> 5B > RB1 > 236A > X  > X > 236C > j.B throw 4146
 
 2C > 5[C] > 214A, 3B+C > j.[C] ~ j.B |> 5B > RB1 > 236A > X  > X > 214C > air throw 4210
 
-[comment]: <> ( IAD > j.B ~ j.A > 2A > 2C > 3A+B  > j.[C] ~ j.B > |> 5B > RB1 > 236A > X  > X > 214C > air throw  ?? idk)
-
-
-j.B > jc > j.C > j.6B+C dl.2C > 5C > 6C > 214B > 22C, 66 > 5C > RB1 > 623A > j.B > j.C > throw 3880
+[comment]: <> ( IAD > j.B ~ j.A > 2A > 2C > 3A+B  > j.[C] ~ j.B > |> 5B > RB1 > 236A > X  > X > 214C > air throw ) ?? idk
