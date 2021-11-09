@@ -1,3 +1,6 @@
+# This file is a mess and doesn;t make sense just ignore it thanks
+
+
 ###### AC stands for rebeat
 
 
