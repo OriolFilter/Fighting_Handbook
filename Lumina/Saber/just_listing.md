@@ -96,7 +96,22 @@ j.6B+C dl.2C > 5C > 6C > 214B > 22C, j.[C] ~ j.B |> 5B > RB1 > 236A > x > x 4007
 
 2C > 5[C] > 214A, 2B > 3B+C > j.[C] ~ j.B |> 5B ~ 236A > X  > X > 214C, 3C >air throw 4322
 
+
+CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B > 6C, dl 5A > 5B > 3C > AT 4141
+CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B > 6C, dl 5A > 5B > RC1 > RB2 > AT 4142
+
+
+CH Shield Counter A/C > j.C > j.6B+C > dl. 2C > 5[C] > RB1 > 623B > AT 3187
+CH Shield Counter A/C > j.C > j.6B+C > dl. 2C > 5[C] > RB1 > 623B > j.B > j.A > AT 3187
+CH Shield Counter A/C > j.C > j.6B+C > dl. 2C > 5[C] > RB1 > 623B > j.B > AT 3218
+CH Shield Counter A/C > j.B > j.C  > j.[C] > dl j.B |> dl. 5B > RB1 > 623B > AT 2620
+CH Shield Counter A/C > j.B > j.C  > j.[C] > dl j.B |> dl. 5B > 5[C] > RB1 > 623B > AT 2764
+CH Shield Counter A/C > j.B > j.C  > j.[C] > dl j.B |> dl. 5B > 5[C] > RB1 > 623A > j.A > AT 2800
+
 CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B > 6C, 5A > RB1 > RB2 > AT 4157
+
+CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623B > j.[C] ~ j.B |> 5B > 6C, 5A > RB1 > RB2 > AT 4157
+CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B > 6C, 5A > RB1 > RB2 > AT 4153
 
 CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B ~ 236A > X  > X > 214C, 3C > AT 4705
 
