@@ -1,41 +1,28 @@
-###### AC stands for rebeat
+# Midscreen somewhat close to the corner
 
+##OFF j. Shield Counter A/C counterhit
 
-### Midscreen
+### 1 Meter Bar
 
-##### 5b
-
-> Close \
-> 5B > 2B > 2C > 5[C] > 6C > IAD j.[C] >   5C > AC1  >  B Rekka x3  > 22C > 5[C] > AC1 > AC2 > j.B > AT >  safe jump
+> CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 2B > 3B+C > j.[C] ~ j.B |> 5B ~ 236A (~) X (~) X > 214C, 3C > AT \
+> `4705` \
+> Replace **623A** for **3B+C** to deal `4739`\
+> or use 623B for 4701 and less difficulty.
 > 
-> Far \
-> 5B > 6C > 623B > IAD j.[C}>   5C > AC1  >  B Rekka x3  > 22C > 5[C] > AC1 > AC2 > j.B > AT >  safe jump
+ 
+[comment]: <> (#### 1 Moonskill)
 
-> 5B > 2B > 2C > 5C > 623B > IAD j.[C] > 5B > 5[C] > C > 3C > j.B > j.C > AT ~~ jc > j.[C]
+> CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 3BC, 2B > 3B+C > j.[C] ~ j.B |> 5B ~ 236A (~) X (~) X > 214C, 3C > AT 4739
+> 
+> ```text
+> After getting the shield counter, depending of the height of the enemy char, you might be able to walk in a bit, this might helps doing the 5B > Rekka more consistently 
+>
+> Keep in mind that rekka need to be delyed to make the body not hit the ground, but also not be too high that 214C will miss
+> ```
 
+### Meterless somewhat near the corner
+NGL, 5A feels like 1-2 frame link pickup.
+> CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B > 6C, 5A > RB1 > RB2 > AT 4157
+ 
 
-### Corner
-
-> j.shield A > 5B > 5[C] > 6C > 214A > 5B > 5[C] > 6C > 214A > 214C > 5B > AC1 > AC2 > j.B > AT
-
-
-
-
-
-
-
-
-
-j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, 66 > 5C > RB1 > 623A > j.B > j.C > throw 3880
-
-j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, IAD j.[C] > 5B > RB1 > 623A > throw 3955
-
-j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, IAD j.[C] > 5A > 5B > 623A > throw 3966
-
-j.A > j.6B+C dl.2C > 5C > 6C > 214B > 22C, IAD j.[C] > 5A > 5B > 623A > j.B throw 3982
-
-2C > 5[C] > 214A, 3B+C > j.[C] ~ j.B |> 5B > RB1 > 236A > X  > X > 236C > j.B throw 4146
-
-2C > 5[C] > 214A, 3B+C > j.[C] ~ j.B |> 5B > RB1 > 236A > X  > X > 214C > air throw 4210
-
-[comment]: <> ( IAD > j.B ~ j.A > 2A > 2C > 3A+B  > j.[C] ~ j.B > |> 5B > RB1 > 236A > X  > X > 214C > air throw ) ?? idk
+CH Shield Counter A/C j.C > j.6B+C > dl. 2C > 5[C] > RB1 > 623B > j.B > AT 3218 

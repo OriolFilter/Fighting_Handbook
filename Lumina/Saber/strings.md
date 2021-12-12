@@ -25,4 +25,4 @@ NGL, 5A feels like 1-2 frame link pickup.
 > CH j.Shield Counter A/C |> (6) > 2C > 5[C] > 214A, 623A > j.[C] ~ j.B |> 5B > 6C, 5A > RB1 > RB2 > AT 4157
  
 
-CH Shield Counter A/C j.C > j.6B+C > dl. 2C > 5[C] > RB1 > 623B > j.B > AT 3218 
+CH Shield Counter A/C j.C > j.6B+C > dl. 2C > 5[C] > RB1 > 623B > j.B > AT 3218
