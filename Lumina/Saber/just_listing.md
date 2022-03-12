@@ -39,11 +39,11 @@
 
 3C > j.B > j.C > jc > j.[C] dl. j.b |> 623B > jc > j.[C] > j.B > 5A > RB1 > 236A > X > X 2306
 
-3C > j.B > j.C > jc > j.[C] dl. j.b |> 5B > 623B(1) > jc > j.[C] > AD > j.B > j.A >AT 
+3C > j.B > j.C > jc > j.[C] dl. j.b |> 5B > 623B(1) > jc > j.[C] > AD > j.B > j.A >AT
 
-3C > j.B > j.C > jc > j.[C] dl. j.b |> 5B > 623B(1) > jc > j.[C] > AD > j.B > j.A >jc > j.A > j.B > AT 
+3C > j.B > j.C > jc > j.[C] dl. j.b |> 5B > 623B(1) > jc > j.[C] > AD > j.B > j.A >jc > j.A > j.B > AT
 
-3C > j.B > j.C > jc > j.[C] dl. j.b |> 5B > 623B(1) > jc > j.[C] > dl j.B > j.A > jc > j.A > j.A > j.B > AT ?? 
+3C > j.B > j.C > jc > j.[C] dl. j.b |> 5B > 623B(1) > jc > j.[C] > dl j.B > j.A > jc > j.A > j.A > j.B > AT ??
 
 
 
