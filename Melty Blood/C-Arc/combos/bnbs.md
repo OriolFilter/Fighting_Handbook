@@ -1,12 +1,6 @@
 ##### https://www.youtube.com/watch?v=koRjehzxd2I&ab_channel=NGI
 
 
-
-
-
-
-
-
 > 2abc3c623b jBC jBC AT - 3422 64%
 >> Done
 
@@ -23,7 +17,7 @@
 >>> Done
 
 
-> 22b6b j63214C 66 jC jABC - 3297 -65.2
+> 22b66b j63214C 66 jC jABC - 3297 -65.2
 >> Done
 
 
@@ -38,13 +32,20 @@
 
 ### Corner Loops
 
-> 2abc 5c 5ac2bc 5c 5ab2bc4c jBC jABC AT - 4352 128%
->> Done
+##### 2abc 5c 5ac2bc 5c 5ab2bc4c jBC jABC AT - 4352 128%
+> Done
 
-> 2abc 5c 235[b] 5ab2bc 5c 236[b] 5ab2bc 4c 66 jC 5ab2bc623a - 4672 157%
+##### 2abc 5c 236[b] 5ab2bc 5c 236[b] 5ab2bc 4c 66 jC 5ab2bc623a - 4672 157%
+> Done
 
-> 2abc4c 66 jc 5ab2bc 5c 236[b] 5ab2bc 5c 5ab2bc 623a - 4509 147%
+##### 2abc4c 66 jc 5ab2bc 5c 236[b] 5ab2bc 5c 5ab2bc 623a - 4509 147%
+> Done
 
-> jC dash 5ab2bc 5c 236[b] 5ab2bc 5c 236[b] 5ab2bc 623a - 4804 126%
+##### jC dash 5ab2bc 5c 236[b] 5ab2bc 5c 236[b] 5ab2bc 623a - 4804 126%
+> Done
 
-> 2abc 632147C 5b2bc 5c 236[b] 632147b 5b2b2c 5c 236[b] 632147b 5b2b2c4c 66 jC 5ab2bc 623a - 5725 50.2%
+##### 2abc 632147C 5b2bc 5c 236[b] 632147b 5b2b2c 5c 236[b] 632147b 5b2b2c4c 66 jC 5ab2bc 623a - 5725 50.2%
+>
+
+
+next https://www.youtube.com/watch?v=jXJZ9bz8PPA&ab_channel=MoltyMedia
