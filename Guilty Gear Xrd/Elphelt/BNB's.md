@@ -67,3 +67,17 @@
 > Anti-air c.s > jump > j.s > double jump > j.kshd > 2h > 236p > c.s > j.7h > toss - 171 damage
 
 > Anti-air c.s > jump > j.s > double jump > j.kshd > 2h > 236p > c.s > jump > j.s > double jump > j.ksh > toss > 6h > 236h > sg-s > 214k > 3xsg-h - Incorporates bread and butter grenade combo. Tested on Sol, likely doesn’t work on every character. 205 damage
+
+# SHOTGUN LOOPS
+
+> Shotgun loops are an extremely important part of maximizing your damage. While in shotgun stance, if you stand still for a few frames, Elphelt will flash and sight the shotgun. Pressing sg-h while charged will fire a much more powerful version that will do about 9% of guts-ignoring chip damage(!) to your opponent and shred a lot of their tension if they used faultless defense. It’s also +5 on block, so it can be used for pressuring and frametraps.
+If you use charged sg-h in the corner at a close enough range, it will wallstick your opponent. You can then follow up with more sg-h’s and combo into a knockdown. You can combo into shotgun loops from roman cancels or counter hit heavy normals near the corner. Walking forward between shots will also give you a bit more damage by increasing the number of loops you can perform. You could also get shotgun loops from sg-d, your command grab. Some examples would be
+
+> C.s > f.s > 2d > 214k > rrc > run forward 236h > (wait for charge) > 4x charged sg-h > dash forward jump > j.spshd > 236p - 50 tension conversion for if you’d rather finish off the opponent or just do a bunch of damage instead of going for an unblockable near the corner. 223 damage
+
+> Sg-d > 236p > (wait for charge) > sg-s > 2x charged sg-h > sg-s > toss > (wait for charge) > sg-s > 5x charged sg-h - Very high damage command grab combo. 163 damage
+
+```yaml
+Jam: 167
+
+```
