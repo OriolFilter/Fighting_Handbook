@@ -25,6 +25,9 @@ Throw > 22H > Throw/mixup
     5042
     Overhead > Aetherial Seal Trigger > 214H > Aetherial Seal Trigger > f.H > 236H > 2H > 623H > 2U
 
+    5161
+    Overhead > Aetherial Seal Trigger > 214H > Aetherial Seal Trigger > 2h ~ 236H > 5H > 623H > 2U
+
     <!-- 50??
     Overhead > Aetherial Seal Trigger > f.H > Aetherial Seal Trigger (start) > 214H > 2H > Aetherial Seal Trigger (end) > 2H > 623H > 2H ~ 236H > 2U -->
 
@@ -114,6 +117,9 @@ Throw > 22H > Throw/mixup
     5057 ??
     j.236**7**H > Aetherial Seal Trigger > 214H >  f.H > 623H > 2U
 
+    5095 ??
+    j.236H > Aetherial Seal Trigger > 214H >  f.H > 623H > 2U
+
 
 #### Metered
     6112
@@ -124,3 +130,9 @@ Throw > 22H > Throw/mixup
 
     6240
     j.236H > Aetherial Seal Trigger > 214H > Aetherial Seal Trigger > c.H(3) > 623H > 2H > 236236U
+
+
+
+#### Overdrive + Meter
+    7363
+    (7)j.236H > Aetherial Seal Trigger > 214H > Aetherial Seal Trigger > c.H(3) > 623H > 2H > 236236U
